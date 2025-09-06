@@ -1,11 +1,11 @@
 This repository aims to show the various reports made during the curricular unit Software Systems Architecture.
 
 We created the archicture for various completely different systems: 
-- Redesign the Internet (HW1 & HW2)
-- Question Management Tool (HW3)
-- Understanding Compiler(LLVM) Architecture (HW4)
-- Automated Smart Shopping Cart (HW5)
-- Recommendation System with AI (HW6)
+- Redesign the Internet ([HW1](HW1 - Design the Internet.pdf) & [HW2](HW2 - Design the Internet Part 2.pdf))
+- Question Management Tool [(HW3)](HW3 - Questions Management Tool.pdf)
+- Understanding Compiler(LLVM) Architecture [(HW4)](HW4 - Understand Someone LLVM Architecture.pdf)
+- Automated Smart Shopping Cart [(HW5)](HW5 - Automated Smart Shopping Cart.pdf)
+- Recommendation System with AI [(HW6)](HW6 - AI Patterns for Recommendation Systems.pdf)
 
 Reports made by:
 - José Francisco Veiga - up202108753@up.pt 
