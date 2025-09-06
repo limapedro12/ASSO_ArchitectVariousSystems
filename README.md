@@ -1,6 +1,6 @@
 This repository aims to show the various reports made during the curricular unit Software Systems Architecture.
 
-We created the archicture for 4 completely different systems: 
+We worked on five distinct topics, four of which involved designing complete system architectures:
 - Redesign the Internet ([HW1](<HW1 - Design the Internet.pdf>) & [HW2](<HW2 - Design the Internet Part 2.pdf>))
 - Question Management Tool ([HW3](<HW3 - Questions Management Tool.pdf>))
 - Understanding Compiler(LLVM) Architecture ([HW4](<HW4 - Understand Someone LLVM Architecture.pdf>))
